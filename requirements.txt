@@ -1,0 +1,6 @@
+gTTS==2.5.4
+numpy==2.3.3
+Requests==2.32.5
+scikit_learn==1.7.2
+speechrecognition==3.14.3
+streamlit==1.50.0
