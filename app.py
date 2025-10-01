@@ -49,14 +49,15 @@ DEFAULT_KNOWLEDGE_BASE = [
     and I’m a big movie buff. I enjoy balancing my technical passion with sports, fitness, and entertainment.""",
     "keywords": ["misconception", "misunderstand", "wrong about", "assume", "think about you"]
 },
-    {
-        "topic": "pushing_boundaries",
-        "content": """I push my boundaries by constantly taking on projects outside my comfort zone. 
-        From implementing transformer architectures from scratch to optimizing LLM inference on 200K+ token contexts, 
-        I actively seek challenges that stretch both my research depth and engineering breadth. 
-        I also experiment with side projects in cutting-edge areas like RAG, recommender systems, and cryptography.""",
-        "keywords": ["boundaries", "limits", "challenge", "push yourself", "comfort zone"]
-    }
+       {
+    "topic": "pushing_boundaries",
+    "content": """I push my boundaries by stepping into situations that challenge me both mentally and physically. 
+    In my professional life, I take on projects that require me to learn new skills or explore unfamiliar technologies. 
+    Outside of work, I challenge myself by hitting the gym, playing competitive sports like table tennis and cricket, 
+    and continuously improving my fitness. I also make an effort to connect with new people and step out of my comfort zone socially, 
+    because I believe growth comes not just from technical challenges, but also from building relationships and new perspectives.""",
+    "keywords": ["boundaries", "limits", "challenge", "push yourself", "comfort zone"]
+}
 ]
 
 
